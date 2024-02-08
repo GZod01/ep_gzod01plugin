@@ -1,0 +1,13 @@
+{
+  "parts":[
+    {
+      "name": "GZod01 Plugin",
+      /*"hooks": {
+        "expressCreateServer": "ep_invite_via_email/server_invite_via_email:expressServer"
+      },
+      "client_hooks": {
+        "postAceInit": "ep_gzod01plugin/static/js/invite_via_email:postAceInit"
+      }*/
+    }
+  ]
+}
